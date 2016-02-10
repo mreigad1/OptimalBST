@@ -1,0 +1,5 @@
+Dog 0.58
+Cat 0.08
+Potato 0.18
+Fish 0.1
+Carrot 0.06
